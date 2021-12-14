@@ -51,7 +51,7 @@ window.onload = function() {
     if (pregunta.imagen) {
       select_id("imagen").setAttribute("src", pregunta.imagen)
       style("imagen").height = "200px"
-      style("imagen").width = "100%"
+      style("imagen").width = "80%"
     } else {
       style("imagen").height = "0px"
       style("imagen").width = "0px"

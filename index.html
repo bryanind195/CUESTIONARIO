@@ -1,26 +1,40 @@
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="UTF-8">
     <title> Cuestionario </title>
+    
   </head>
+
+  <header>
+
+    <section id="logo" >
+      <img src="images/logoups.svg" alt="logohead"  >
+    </section>
+
+    
+  </header>   
+  
+  <h2 id="titulo1">
+    Cuestionario Examen complexivo 2022
+    
+  </h2>
+  <h3 id="titulo2">
+    Sistemas Industriales
+  </h3>
+  
+  
+
   
   <body>
+
+    
     <style>
       * {
-        transition: all 0.2s;
+        transition: all 0.1s;
       }
-  
-      body {
-        background: cadetblue;
-        padding: 0;
-        margin: 0;
-        text-align: center;
-        font-family: calibri;
-        font-size: 120%;
-      }
-  
+
       .contenedor {
-        width: 98vw;
-        height: 97vh;
+        width: 200px;
+        height: 200px;
         display: inline-flex;
         flex-direction: column;
         justify-content: center;
@@ -28,17 +42,57 @@
       }
   
       .encabezado {
-        position: relative;
+        background-position-x: 1000px;
+        background-position-y: 800px;
         background: white;
-        min-width: 300px;
-        width: 70%;
-        max-width: 600px;
+        min-width: 500px;
+        width: 400%;
+        max-width: 800px;
         padding: 10px;
+        justify-content: center;
+        align-items: center;
       }
   
+      body {
+        
+        background: rgb(161, 152, 18);
+        padding: 0;
+        margin: 0;
+        text-align: center;
+        font-family: calibri;
+        font-size: 250%;
+      }
+
+      #titulo1 {
+        font-weight: bold;
+        font-size: 40px;
+        text-align: center;
+        color: blue;
+      }
+
+      #titulo2 {
+        font-weight: bold;
+        font-size: 40px;
+        text-align: center;
+        color: blue;
+      }
+
+      #logo{
+        width: 500px;
+        float: center;
+        margin: auto ;
+        margin-top: 80px;        
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+      }
+  
+      
+  
       .materia {
-        opacity: 0.3;
+        opacity: 0.8;
         text-align: left;
+        color: green;
       }
   
       .pregunta {
@@ -53,8 +107,8 @@
   
       .btn {
         background: white;
-        width: 60%;
-        max-width: 550px;
+        width: 400%;
+        max-width: 800px;
         padding: 10px;
         margin: 5px;
         cursor: pointer;
@@ -66,7 +120,7 @@
       
       .numero{
         position: absolute;
-        opacity:0.3;
+        opacity:0.0;
         top: 10px;
         right: 10px;
       }
@@ -74,6 +128,14 @@
       .puntaje{
         padding:10px;
         color:white;
+      }
+
+      footer{
+        position: relative;
+        margin-top: 400px;
+        width: 100%;
+        padding: 50px;
+        clear: both;
       }
     </style>
   
@@ -95,4 +157,35 @@
       <script src="index.js"></script>
     </div>
   
-  </body></html>
+  </body>
+  
+  
+  <footer>
+
+          <a href="https://www.linkedin.com/in/angel-indacochea-70a13979/">
+            <image src="images/linkedin.svg" alt="ico de linkedin" style="width: 40px" >
+          </a>
+            
+          <a href="https://www.linkedin.com/in/angel-indacochea-70a13979/"> 
+            <b>Angel Indacochea</b>  
+          </a> 
+          
+          <p>
+            
+          </p>
+      
+          <a href="https://wa.me/593998625694" >
+            <image src="images/wtsp2.png" alt="ico de linkedin" style="width: 40px">
+          </a>    
+
+          <a href="https://wa.me/593998625694" > 
+              <b>0998625694</b>  
+          </a>
+  </footer>
+  
+
+  
+
+
+  
+  </html>

@@ -1,0 +1,89 @@
+    {
+        "materia": "ADMINISTRACION DE EMPRESAS",
+        "pregunta": "Uno de los patrones basicos de la mayoria de series de tiempo aplicables a la demanda es",
+        "respuesta": "Tendencia",
+        "incorrecta1": "Demanda Proyectada",
+        "incorrecta2": "Demanda promedio",
+        "incorrecta3": "Regresion lineal"
+        
+    },
+    {
+        "materia": "ADMINISTRACION DE EMPRESAS",
+        "pregunta": "En un mercado , los consumidores tienen como objetivo conseguir:",
+        "respuesta": "La máxima satisfaccion REVISAR OJO ",
+        "incorrecta1": "El mayor ahorro ",
+        "incorrecta2": "La mayor renta posible",
+        "incorrecta3": "EL maximo ahorro y la mejor tasa "
+    },
+    {
+        "materia": "AUTOMATIZACION",
+        "pregunta": " Seleccione la funcion logica que represente el sigueinte esquema de contactos ",
+        "respuesta": "X = A AND ((B AND (NOT C  )) OR D)",
+        "incorrecta1": "X = A OR ((B AND (NOT C  )) OR D)",
+        "incorrecta2": "X = A AND ((B AND (NOT C  )) AND D)",
+        "incorrecta3": "X = A OR ((B AND (NOT C  )) AND D)",
+        "imagen": "https://i.ibb.co/WDJLQbq/pregunta3.png",
+        "objectFit": "cover"
+    },
+    {
+        "materia": "AUTOMATIZACION",
+        "pregunta": "En el controlador logico programable, el byte de marcas de ciclo representa:",
+        "respuesta": "Bits con valor logico vedadero permanente",
+        "incorrecta1": "Señales de reloj con una frecuencia fija que se ejecutan de forma indefinida",
+        "incorrecta2": "Bits con valor logico falso permanente",
+        "incorrecta3": "EL tiempo de funcionamiento del PLC"
+        
+    },
+    {
+        "materia": "AUTOMATIZACION",
+        "pregunta": "En la programacion de PLC, el bloque  TONR corresponde a:",
+        "respuesta": "Temporizador de retardo a la conexion ",
+        "incorrecta1": "Temporizador de retardo a la desconexion",
+        "incorrecta2": "Temporizador de retardo a la conexion memorizado",
+        "incorrecta3": "Temporizador de impulso"
+        
+    },
+    {
+        "materia": "PNEUMATICA",
+        "pregunta": "El elemento mostrado corresponde a:",
+        "respuesta": "Lubricador",
+        "incorrecta1": "Detector de nivel",
+        "incorrecta2": "Filtro con purga manual",
+        "incorrecta3": "Unidad de mantenimiento ",
+        "imagen": "https://i.ibb.co/dkX1Ks1/pregunta6.png"
+    },
+    {
+        "materia": "AUTOMATIZACION",
+        "pregunta": "En la piramide de automatizacion el nivel mas bajo corresponde a:",
+        "respuesta": "Nivel de actuadores y sensores",
+        "incorrecta1": "Nivel de campo",
+        "incorrecta2": "Nivel de planta",
+        "incorrecta3": "Nivel de Celula"
+        
+    },
+    {
+        "materia": "PNEUMATICA",
+        "pregunta": "Indique el nombre correcto del siguiente elemento neumatico:",
+        "respuesta": "Valvula distribuidora 3/5",
+        "incorrecta1": "Cilindro doble efecto ",
+        "incorrecta2": "Valvula distribuidora 5/2",
+        "incorrecta3": "Valvula distribuidora 5/3",
+        "imagen": "https://i.ibb.co/GWf6HKD/pregunta8.png"
+    },
+    {
+        "materia": "DIGITALES",
+        "pregunta": "Elija la respuesta correcta:",
+        "respuesta": "El diagrama ASM tiene como elementos fundamentales a los estados, a las entradas y a las salidas.",
+        "incorrecta1": "El diagrama ASM tiene como elementos fundamentales a los Flip/Flip, a las entradas y a las salidas",
+        "incorrecta2": "En el diagrama ASM las salidas condicionales duran todo el tiempo que dura el estado",
+        "incorrecta3": "El diagrama ASM tiene como elementos fundamentales a los Flip/Flip, a las entradas síncronas y asíncronas"
+    },
+    {
+        "materia": "DIGITALES",
+        "pregunta": "Selecciona la alternativa correcta:",
+        "respuesta": "p-3, q-1, r-4, s-2",
+        "incorrecta1": "p-1, q-2, r-3, s-4 ",
+        "incorrecta2": "p-1, q-4, r-3, s-2 ",
+        "incorrecta3": "p-2, q-4, r-3, s-1",
+        "imagen": "https://i.ibb.co/K5J2Bzt/pregunta10.png"
+    },
