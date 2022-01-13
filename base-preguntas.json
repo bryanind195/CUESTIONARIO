@@ -142,6 +142,967 @@
         "incorrecta3": "180°",
         "imagen": "https://i.ibb.co/qmrQJhM/27.jpg",
         "objectFit": "contain"
+    },
+    
+    {
+        "materia": "GESTION EMPRESARIAL I",
+        "pregunta": "Uno de los patrones básicos de la mayoría de series de tiempo aplicables a la demanda es:",
+        "respuesta": "Tendencia",
+        "incorrecta1": "Demanda proyectada",
+        "incorrecta2": "Demanda promedio",
+        "incorrecta3": "Regresión lineal"
+        
+    },
+    {
+        "materia": "GESTION EMPRESARIAL I",
+        "pregunta": "En un mercado,los consumidores tienen como objetivo conseguir:",
+        "respuesta": "La mayor satisfacción",
+        "incorrecta1": "La mayor renta posible",
+        "incorrecta2": "El máximo ahorro y la mejor tasa",
+        "incorrecta3": "El mayor ahorro"
+        
+    },
+    {
+        "materia": "AUTOMATIZACION INDUSTRIAL I",
+        "pregunta": "Seleccione la función lógica que representa el siguiente esquema de contactos:",
+        "respuesta": "X=A AND((B AND (NOT C))OR D)",
+        "incorrecta1": "X=A OR((B AND(NOT C))AND D)",
+        "incorrecta2": "X=A AND((B AND (NOT C))AND D)",
+        "incorrecta3": "X=A AND((B AND(NOT C))OR D)",
+	"imagen": "https://i.ibb.co/Pt8Kgw2/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "AUTOMATIZACION INDUSTRIAL I",
+        "pregunta": "En el controlador lógico programable, el byte de marcas de ciclo representa:",
+        "respuesta": "Señales de reloj con una frecuencia fija que se ejecutan de forma indefinida.",
+        "incorrecta1": "Bits con valor lógico verdadero permanente.",
+        "incorrecta2": "Bits con valor lógico falso permanente.",
+        "incorrecta3": "El tiempo de funcionamiento del PLC."
+        
+    },
+    {
+        "materia": "AUTOMATIZACION INDUSTRIAL I",
+        "pregunta": "En la programación de PLC,el bloque TONR corresponde a:",
+        "respuesta": "Temporizadro de retardo a la conexión memorizado",
+        "incorrecta1": "Temporizador de retardo a la desconexión",
+        "incorrecta2": "Temporizador de retardo a la conexión",
+        "incorrecta3": "Temporizador de impulso"
+        
+    },
+    {
+        "materia": "AUTOMATIZACION INDUSTRIAL I",
+        "pregunta": "El elemento mostrado corresponde a:",
+        "respuesta": "Lubricador",
+        "incorrecta1": "Detector de nivel",
+        "incorrecta2": "Filtro con purga manual",
+        "incorrecta3": "Unidad de mantenimiento",
+	"imagen": "https://i.ibb.co/vmCVSQ9/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "AUTOMATIZACION INDUSTRIAL I",
+        "pregunta": "En la pirámide de automatización el nivel más bajo corresponde a:",
+        "respuesta": "Nivel de Sensores y Actuadores",
+        "incorrecta1": "Nivel de Campo",
+        "incorrecta2": "Nivel de Planta",
+        "incorrecta3": "Nivel de Célula"
+        
+    },
+    {
+        "materia": "AUTOMATIZACION INDUSTRIAL I",
+        "pregunta": "Indique el nombre correcto del siguiente elemento neumático:",
+        "respuesta": "Válvula distribuidora 5/3",
+        "incorrecta1": "Cilindro de doble efecto",
+        "incorrecta2": "Válvula distribuidora 3/5",
+        "incorrecta3": "Válvula distribuidora 5/2",
+	"imagen": "https://i.ibb.co/k2LP7Fb/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "CIRCUITOS DIGITALES AVANZADOS (SI)",
+        "pregunta": "Determine cual planteamiento es el verdadero:",
+        "respuesta": "El diagrama ASM tiene como elementos fundamentales a los estados,a las entradas y a las salidas.",
+        "incorrecta1": "El diagrama ASM tiene como elelmentos fundamentales a los Flip/Flip,a las entradas y a las salidas",
+        "incorrecta2": "En el diagrama ASM las salidas condicionales duran todo el tiempo que dura el estado",
+        "incorrecta3": "El diagrama ASM tiene como elementos fundamentales a los FLIP/FLIP, a las entradas síncronas y asíncronas"
+        
+    },
+    {
+        "materia": "CIRCUITOS DIGITALES AVANZADOS (SI)",
+        "pregunta": "Relacione los elementos de las columnas correspondientes:",
+        "respuesta": "p-3, q-1, r-4, s-2",
+        "incorrecta1": "p-3, q-1, r-4, s-2",
+        "incorrecta2": "p-1, q-4, r-3, s-2",
+        "incorrecta3": "p-2, q-4, r-3, s-1",
+	"imagen": "https://i.ibb.co/9ZLNqLG/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "CIRCUITOS DIGITALES AVANZADOS (SI)",
+        "pregunta": "¿A cuál expresión booleana corresponde al código en VHDL?",
+        "respuesta": "F=(A + not B) and (not A + B)",
+        "incorrecta1": "F=A xor B",
+        "incorrecta2": "F=A xnor B",
+        "incorrecta3": "F=(notA + not B) and (A+B)",
+	"imagen": "https://i.ibb.co/ZYhhD4W/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS I",
+        "pregunta": "Aplicando la L.K.C. en el nodo 4 del circuito mostrado por la figura, entonces es cierto que la ecuación total nodal es:",
+        "respuesta": "V4-V3/4=V4-2",
+        "incorrecta1": "V3-V4/4=V4-2",
+        "incorrecta2": "V3-V4/4=2-V4",
+        "incorrecta3": "V4-V3/4=2-V4",
+	"imagen": "https://i.ibb.co/prxJ8n1/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS I",
+        "pregunta": "Seleccione la alternativa correcta:Mediante combinaciones de fuentes en serie, calcular i del circuito.",
+        "respuesta": "I= 9 A",
+        "incorrecta1": "I= -5 A",
+        "incorrecta2": "I= 18 A",
+        "incorrecta3": "I= 8 A",
+	"imagen": "https://i.ibb.co/cbp1wLh/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS I",
+        "pregunta": "¿Comó se define a la inductancia?",
+        "respuesta": "Es una medida de la oposición a un cambio de corriente de un inductor o bobina que almacena energía en presencia de un campo magnético",
+        "incorrecta1": "No se requiere de un campo magnético para que se genere la inductancia",
+        "incorrecta2": "La inductancia no almacena energía",
+        "incorrecta3": "La inductancia nos ayuda a transferir energía de una bobina a otra"
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS I",
+        "pregunta": "De acuerdo al siguiente circuito indique los valores de Voltaje y Corriente.",
+        "respuesta": "V=5V ; I=3A",
+        "incorrecta1": "V=10V ; I=7A",
+        "incorrecta2": "V=15V ; I=1A",
+        "incorrecta3": "V=20V ; I=4A",
+	"imagen": "https://i.ibb.co/hLFLYjd/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS II",
+        "pregunta": "Los condensadores o las inductancias instaladas en un circuito de corriente alterna, los picos de voltaje y corriente, no ocurren al mismo tiempo, se dice que hay diferencias de fase.¿Cuál es el ángulo de desfase entre Voltaje y la Intensidad?:",
+        "respuesta": "90°",
+        "incorrecta1": "45°",
+        "incorrecta2": "360°",
+        "incorrecta3": "180°"
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS II",
+        "pregunta": "Completa la frase:El capacitor o condensador es un dispositivo eléctrico formado esencialmente por ... y separadas por ... sobre las placas se distribuyen ... ",
+        "respuesta": "dos placas-un dieléctrico-cargas iguales y opuestas.",
+        "incorrecta1": "una FEM-mal conductor-cargas opuestas.",
+        "incorrecta2": "cargas iguales y opuestas-dos placas-un dieléctrico.",
+        "incorrecta3": "un plano-campo físico-eléctricamente."
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS II",
+        "pregunta": "De acuerdo al enunciado marque lo INCORRECTO:",
+        "respuesta": "En una carga conectada en delta,la corriente de línea y la corriente de fase son iguales",
+        "incorrecta1": "Un sistema desbalanceado se debe a fuentes de tensión desbalanceadas o a una carga desbalanceada.",
+        "incorrecta2": "Un sistema trfásico desbalanceado puede analizarse aplicando el análisis nodal o de malla.",
+        "incorrecta3": "De acuerdo a la necesidad se podría generar una fuente trfásica a partir de tres fuentes monofásicas."
+        
+    },
+    {
+        "materia": "CIRCUITOS ELECTRICOS II",
+        "pregunta": "De acuerdo al enunciado marque lo INCORRECTO:",
+        "respuesta": "Para una carga trfásica balanceada Zdelta=(1/3)Zy",
+        "incorrecta1": "La secuencia de fases en un sistema trfásico es el orden temporal en que las tensiones pasan por sus respectivos valores máximos.",
+        "incorrecta2": "La potencia aparente se la define como S=P/fp",
+        "incorrecta3": "Una carga balanceada es aquella en que las impedancias de las fases son iguales en magnitud y en fase."
+        
+    },
+    {
+        "materia": "ETICA",
+        "pregunta": "Seleccione el principio del código de ética del IEEE",
+        "respuesta": "Rechazar el soborno en todas sus formas",
+        "incorrecta1": "Construir y fortalecer la identidad nacional.",
+        "incorrecta2": "Afirmar y fortalecer espacios públicos",
+        "incorrecta3": "Auspiciar la integración social."
+        
+    },
+    {
+        "materia": "DISEÑO ASISTIDO POR COMPUTADOR(CAD)",
+        "pregunta": "Se requiere dibujar un triágulo equilátero cuyos vértices son A,B,C,la base es AB.Indicar una de las formas para realizar:",
+        "respuesta": "Línea de AB,línea de BC con @magnitud<120,línea de AC con @magnitud<60",
+        "incorrecta1": "Línea de AB,línea BC,línea AC",
+        "incorrecta2": "Línea de AB,línea de BC con @magnitud<60,línea de AC con @magnitud<120",
+        "incorrecta3": "Línea de AB,línea de BC con @magnitud<60,línea de AC con @magnitud<60"
+        
+    },
+    {
+        "materia": "DISEÑO ASISTIDO POR COMPUTADOR(CAD)",
+        "pregunta": "Seleccione la respuesta correcta:Al seleccionar la entidad (comando)SIMETRÍA,luego de seleccionar el objeto se selecciona:",
+        "respuesta": "Primer punto de línea de simetría",
+        "incorrecta1": "otro punto del objeto",
+        "incorrecta2": "otro comando",
+        "incorrecta3": "el punto siempre fuera del objeto"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "Idealmente, un diodo puede ser representado por:",
+        "respuesta": "Un interruptor",
+        "incorrecta1": "Una fuente de voltaje",
+        "incorrecta2": "Todas las anteriores",
+        "incorrecta3": "Una resistencia"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "Cuando un voltaje de sinusoidal a 60Hz es aplicado a la entrada de un rectificador de onda completa,la salida de frecuencia es:",
+        "respuesta": "0 Hz",
+        "incorrecta1": "60 Hz",
+        "incorrecta2": "240 Hz",
+        "incorrecta3": "120 Hz"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "El transistor BJT opera en región activa cuando la:",
+        "respuesta": "Unión base-emisor se polariza en directa y unión base-colecor en inversa",
+        "incorrecta1": "Unión base-emisor y unión base-colecor se polarizan ambas en inversa",
+        "incorrecta2": "Unión base-emisor y unión base-colecor se polarizan ambas en directa",
+        "incorrecta3": "Unión base-emisor se polariza en inversa y unión base-colecor en directa"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "La curva característica mostrada en la figura corresponde a:",
+        "respuesta": "MOSFET",
+        "incorrecta1": "FET CANAL P",
+        "incorrecta2": "BJT TIPO N",
+        "incorrecta3": "FET CANAL N",
+	"imagen": "https://i.ibb.co/PNs6nQH/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "Que tipo de amplificador de potencia es el circuito de la figura",
+        "respuesta": "Clase B",
+        "incorrecta1": "Clase A",
+        "incorrecta2": "Clase A acoplado con transformador",
+        "incorrecta3": "Clase C",
+	"imagen": "https://i.ibb.co/j3pBrfb/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "El amplificador de Potencia cuyas etapas de salidas conducen 180° es:",
+        "respuesta": "Clase B",
+        "incorrecta1": "Clase AB",
+        "incorrecta2": "Clase A",
+        "incorrecta3": "Clase C"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "El circuito con amplificador operacional cumple:",
+        "respuesta": "Ganancia de lazo cerrado es 100",
+        "incorrecta1": "Impedancia de salida 100k",
+        "incorrecta2": "Impedancia de entrada es 1k",
+        "incorrecta3": "Ganancia de lazo abierto es -100",
+	"imagen": "https://i.ibb.co/6Nf7dSb/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA I",
+        "pregunta": "La impedancia de entrada circuito con op-amp ideal es:",
+        "respuesta": "Infinita",
+        "incorrecta1": "0",
+        "incorrecta2": "R2",
+        "incorrecta3": "R1",
+	"imagen": "https://i.ibb.co/HTGB34n/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "ELECTRONICA ANALOGICA II",
+        "pregunta": "Para aumentar el nivel de voltaje de salida de los SCR, estos se conectan en:",
+        "respuesta": "Serie",
+        "incorrecta1": "Estrella",
+        "incorrecta2": "Paralelo",
+        "incorrecta3": "Delta"
+        
+    },
+    {
+        "materia": "ELECTRONICA DE POTENCIA I",
+        "pregunta": "La electrónica de potencia se puede definir como:",
+        "respuesta": "La aplicación de la electrónica de estado sólido para la conversión y el control de cargas de potencia.",
+        "incorrecta1": "La aplicación de la electrónica de rectificación para la conversión y el control de la energía eléctrica",
+        "incorrecta2": "La aplicación de la electrónica de rectificación para la conversión y el control de cargas de potencia.",
+        "incorrecta3": "La aplicación de la electrónica de estado sólido para la conversión y el control de cargas de energía eléctrica."
+        
+    },
+    {
+        "materia": "ELECTRONICA DE POTENCIA I",
+        "pregunta": "En un rectificador no controlado con carga R-Fuente, Vs=120 RMS,60 Hz,Vcd=48 Vcd,R=5ohms.EL ángulo B es:",
+        "respuesta": "2.885 rad/s",
+        "incorrecta1": "0.286 rad/s",
+        "incorrecta2": "2.569 rad/s",
+        "incorrecta3": "1.34 rad/s"
+        
+    },
+    {
+        "materia": "ELECTRONICA DE POTENCIA I",
+        "pregunta": "En el siguiente circuito rectificador monofásico no controlado media onda con carga R, Vs=220 Vrms, 60Hz, y R=200 ohmios entonces el Voltaje de la carga CD(Vo CD) es:",
+        "respuesta": "171.06 V",
+        "incorrecta1": "99.03 V",
+        "incorrecta2": "311.24 V",
+        "incorrecta3": "70.02 V"
+        
+    },
+    {
+        "materia": "ELECTRONICA DIGITAL",
+        "pregunta": "¿Si se tiene un sistema de cuatros variables,el mapa de Karnaugh de cuántos cuadros estaría compuesto?",
+        "respuesta": "b.16",
+        "incorrecta1": "a.4",
+        "incorrecta2": "c.8",
+        "incorrecta3": "d.2"
+        
+    },
+    {
+        "materia": "ELECTRONICA DIGITAL",
+        "pregunta": "Escoja la expresión correcta para la variable de salida S del circuito con decodificador:",
+        "respuesta": "Σ(1,2,4,7)",
+        "incorrecta1": "Σ(3,5,6,7)",
+        "incorrecta2": "Σ(0,3,5,6)",
+        "incorrecta3": "Σ(2,3,5,7)",
+	"imagen": "https://i.ibb.co/n3xJQvF/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "ENERGIA Y MEDIO AMBIENTE",
+        "pregunta": "De las opciones planteadas.¿Cuál es la característica principal de la energía geotérmica.?",
+        "respuesta": "a.Es la energía almacenada en el calor en el interior de la tierra.",
+        "incorrecta1": "b.Es la energía obtenida por fermentación aeróbica y anaeróbico de subproductos orgánicos",
+        "incorrecta2": "c.Es aquella energía que se obtiene por acción de las precipitaciones y humedad relativa del ambiente",
+        "incorrecta3": "Es la energía que se obtiene por diferencia de temperaturas en el lecho marino"
+        
+    },
+    {
+        "materia": "ENERGIA Y MEDIO AMBIENTE",
+        "pregunta": "¿Los ecosistemas tienen dos componentes bióticos principales que son?",
+        "respuesta": "b.Autótrofos y heterótrofos",
+        "incorrecta1": "a.Sintéticos y no sintéticos",
+        "incorrecta2": "c.Bióticos y abióticos",
+        "incorrecta3": "Reproductores y no reproductores"
+        
+    },
+    {
+        "materia": "ENERGIA Y MEDIO AMBIENTE",
+        "pregunta": "Porque se considera al carbón mineral como contaminate de grado alto.",
+        "respuesta": "El carbón mineral que al quemarse produce energía",
+        "incorrecta1": "Paneles solares",
+        "incorrecta2": "Energía automotriz",
+        "incorrecta3": " "
+        
+    },
+    {
+        "materia": "ETICA",
+        "pregunta": "Según la moral,las actitudes positivas son denominadas virtudes y las negativas vício.Por ende el hombre conoce que:",
+        "respuesta": "c)la moralidad exige conciencia de responsabilidad y de libertad en nuestras acciones.",
+        "incorrecta1": "a)puede la sociedad practicar valores cuando lo exija el Estado",
+        "incorrecta2": "b)por sus conveniencias puede omitir o establecer pautas de comportamiento para auto-personalizarse",
+        "incorrecta3": "d)en la práctica cotidiana no se evidencian los valores ni los antivalores"
+        
+    },
+    {
+        "materia": "ETICA",
+        "pregunta": "Seleccione la opción que describa la Teoría del reforzamiento, usada para analizar la motivación y desempeño de los individuos en una organización",
+        "respuesta": "d.Ninguna",
+        "incorrecta1": "a.Que el comportamiento está en función de las consecuencias conductuales.",
+        "incorrecta2": "b.A los individuos les interesa tanto la justicia distributiva como la justicia del procedimiento",
+        "incorrecta3": "c. Esta teoría va a ser efectiva cuando existe un personal que acepte los compromisos y se sienta autosuficiente."
+        
+    },
+    {
+        "materia": "ADMINISTRACION DE PROYECTOS",
+        "pregunta": "El presupuesto utilizado para el control y mantenimiento operacional de grandes proyectos o sistemas actualizándose cada año es el denominado:",
+        "respuesta": "b.CAPEX",
+        "incorrecta1": "a.Inversión de operación",
+        "incorrecta2": "c.Caja chica",
+        "incorrecta3": "d.OPEX"
+        
+    },
+    {
+        "materia": "GESTION EMPRESARIAL I",
+        "pregunta": "Una de las siguientes proposiciones es VERDADERA, identifíquela",
+        "respuesta": "d.El incremento de precios de un bien o servicio comparado entre el periodo actual y un periodo anterior se llama inflación.",
+        "incorrecta1": "a.El decremento del número de bienes y servicios comparado entre el periodo actual y un periodo anterior se llama deflación.",
+        "incorrecta2": "b.El decrmento de precios de un bien o servicio comparado entre el periodo actual y un periodo anterior se llama inflación.",
+        "incorrecta3": "c.El incremento de precios de un bien o servicio comparado entre el periodo actual y un periodo anterior se llama deflación"
+        
+    },
+    {
+        "materia": "GESTION EMPRESARIAL I",
+        "pregunta": "Seleccione la opción que contenga los pasos para la planeación de los RR.HH",
+        "respuesta": "a.1.Identificar los puestos que se van a requerir en la empresa para cumplir con sus objetivos.2.Diagnosticar la situación de la empresa en términos de los recursos humanos con los que cuentas actualmente.3.Contratar el personal adecuado.",
+        "incorrecta1": "b.1.Identificar los puestos que se van a requerir en la empresa para cumplir con sus objetivos.2.Diagnosticar la situación de la empresa en términos de los recursos humanos con los que cuentas actualmente.3.Identificar las acciones que son necesarias para poder desarrollar al personal.",
+        "incorrecta2": "c.1.Identificar los puestos que se van a requerir en la empresa para cumplir con sus objetivos.2.Contratar personal necesario.3.Identificar las acciones que son necesarias para poder desarrollar al personal.3.Identificar las acciones que son necesarias para poder desarrollar al personal.",
+        "incorrecta3": "d.1.Identificar el personal disponible en la empresa.2.Diagnosticar la situaqción de la empresa en términos de los recursos humanos con los que cuentas actualmente."
+        
+    },
+    {
+        "materia": "INSTALACIONES CIVILES",
+        "pregunta": "De acuerdo a la cnfiguración mostrada Circuito de Tomacorrientes polarizados 120V.Seleccione la alternativa referente a la cantidad de conductores 2#12-T#14 por cada tramo indicado.",
+        "respuesta": "d.Tramos 1-2-3 y 4:todos con conductores 2# 12-T#14",
+        "incorrecta1": "a.Tramos 1-3: todos con conductores 2#12-T#14, mientras que el Tramo 2-4:conductores 2#12",
+        "incorrecta2": "b.Tramos 1-2-3y4:todos con conductores 2#12",
+        "incorrecta3": "c.Tramos 1-2:todos con conductores 3#12 y el Tramo 3-4:conductores 2#12",
+	"imagen": "https://i.ibb.co/yY0hxSd/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "INSTALACIONES CIVILES",
+        "pregunta": "De acuerdo a la cnfiguración mostrada Circuito de Tomacorrientes polarizados 120V,indique la alternativa correcta,en cuanto a la cantidad de conductores 2#12-T#14 por cada tramo indicado.",
+        "respuesta": "Tramos 1-2-3 y 4:todos con conductores 2# 12-T#14",
+        "incorrecta1": "Tramos 1-3: todos con conductores 2#12-T#14, mientras que el Tramo 2-4:conductores 2#12",
+        "incorrecta2": "Tramos 1-2-3y4:todos con conductores 2#12",
+        "incorrecta3": "Tramos 1-2:todos con conductores 3#12 y el Tramo 3-4:conductores 2#12",
+	"imagen": "https://i.ibb.co/yY0hxSd/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "INSTALACIONES INDUSTRIALES",
+        "pregunta": "En un arranque Estrella-Triángulo se cumple que:",
+        "respuesta": "d.La corriente que absorve el motor suele tomar valores de 5 a 7 veces In",
+        "incorrecta1": "a.La tensión aplicada al motor se controla variando el ángulo de disparo de unos SCR",
+        "incorrecta2": "b.El motor arranca en dos fases primero reduciendo la tensión de los bobinados,para luego aplicar la tensión total en los mismos.",
+        "incorrecta3": "c.Se inyecta directamente corriente continua en el estator previamente separado de la red"
+        
+    },
+    {
+        "materia": "INSTALACIONES INDUSTRIALES",
+        "pregunta": "El contactor,el Relé Auxiliar y la Luz Piloto son dispositivos eléctricos que se los utiliza en las INstalaciones Eléctricas Industriales de acuerdo a la aplicación,en base a ello relacione el dispositivo adecuado con su aplicación:",
+        "respuesta": "a.B2,A1,C2",
+        "incorrecta1": "b.A1,B3,C2",
+        "incorrecta2": "c.A1,B2,C3",
+        "incorrecta3": "d.B1,A2,C3",
+	"imagen": "https://i.ibb.co/rMxXxgT/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "INSTALACIONES INDUSTRIALES",
+        "pregunta": "Seleccione la opción correcta para completar el siguiente párrafo",
+        "respuesta": "B.--a)Controlador,b)actuadores,c)neumáticos",
+        "incorrecta1": "A.--a)Empresarial,b)Dispositivo de logaritmico fijo,c)perturbadors",
+        "incorrecta2": "C.--a)Educación,b)Dispositivo de fijo,c)estacionador",
+        "incorrecta3": "D.--a)Mecánico,b)Dispositivo electrónico,c)identificador",
+	"imagen": "https://i.ibb.co/Bfj0pdm/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "SENSORES Y TRANSDUCTORES (SI)",
+        "pregunta": "Completar",
+        "respuesta": "c. 1)Transmisor de presión hidrostática soportada por cable - 2)RF Admitancia - 3)Flotador - 4)Flotador",
+        "incorrecta1": "a. 1)Nivel Bajo - 2)Ultrasónico - 3)Capacitancia -4)RF Admitancia",
+        "incorrecta2": "b. 1)Conductancia - 2)Admitancia - 3)Flotador - 4)Nivel ALto",
+        "incorrecta3": "d. 1)Desplazador - 2)Admitancia - 3)Magnético - 4)Radar",
+        "imagen": "https://i.ibb.co/Z6G8mxK/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "SENSORES Y TRANSDUCTORES (SI)",
+        "pregunta": "Ordene las funciones que debe realizar un profesional que se desempeñe en el área de la Instrumentación:",
+        "respuesta": "b.3,2,1,5,4",
+        "incorrecta1": "a.3,1,2,5,4",
+        "incorrecta2": "c.1,2,3,4,5",
+        "incorrecta3": "d.2,1,3,4,5",
+        "imagen": "https://i.ibb.co/WFjvK3h/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "MAQUINAS ELECTRICAS I",
+        "pregunta": "Calcule la eficiencia de un transformador que recibe 20 KVA en el primario y produce 19 KVA en el secundario...",
+        "respuesta": "a.95",
+        "incorrecta1": "b.60",
+        "incorrecta2": "c.80",
+        "incorrecta3": "d.70"
+        
+    },
+    {
+        "materia": "MAQUINAS ELECTRICAS I",
+        "pregunta": "Elija la opción con el balance de potencia adecuado para cuando la máquina está trbajando como generador DC",
+        "respuesta": "b. Pabs=Pm+Pe",
+        "incorrecta1": "a. Pabs=Pj+Pe.",
+        "incorrecta2": "c. Pabs=Pm+Pj",
+        "incorrecta3": "d. Pabs=Phe+Pm"
+        
+    },
+    {
+        "materia": "MAQUINAS ELECTRICAS I",
+        "pregunta": "En el funcionamiento en vacío de la máquina sincrona, la fem inducida depende de:",
+        "respuesta": "b.De la curva del vacío",
+        "incorrecta1": "a.Valor mínimo del flujo útil",
+        "incorrecta2": "c.Factor de forma,factor de distribución.",
+        "incorrecta3": "d.Número de pares de polos."
+        
+    },
+    {
+        "materia": "MAQUINAS ELECTRICAS I",
+        "pregunta": "Calcular el deslizamiento dado un motor de inducción trifásico,dos polos bobinado,de 110 V de tensión de alimentación a 60 Hz y 3.2 V de tensión rotórica.",
+        "respuesta": "a. 3%",
+        "incorrecta1": "b. 3.5%",
+        "incorrecta2": "c. 2.90%",
+        "incorrecta3": "d. 1%"
+        
+    },
+    {
+        "materia": "MAQUINAS ELECTRICAS I",
+        "pregunta": "¿Que se puede decir de la velocidad del rotor(n2) y del estator (n1)?",
+        "respuesta": "d.El rotor gira a una velocidad diferente que la del campo magnético del estator.",
+        "incorrecta1": "a.El rotor no gira en la máquina asincrona mientras que el estator si.",
+        "incorrecta2": "b.El rotor gira a una velocidad igual que la del campo mágnetico del estator.",
+        "incorrecta3": "c.n2=n1+n"
+        
+    },
+    {
+        "materia": "PROCESAMIENTO DIGITAL DE SEÑALES (DSP)",
+        "pregunta": "¿Qué es el ALAISING?",
+        "respuesta": "b.La señal debe ser de banda limitada y la frecuencia de muestreao no debe ser menor que el doble de la frecuencia más alta que se encuentre presente en la señal.",
+        "incorrecta1": "a.La señal debe ser de banda limitada y el periodo de muestreo debe ser menor al doble de la frecuencia más baja que se encuentre presente en la señal.",
+        "incorrecta2": "c.La señal debe ser de banda ancha y la fercuencia más alta que se encuentre presente en la señal.",
+        "incorrecta3": "d.La señal debe de ser de banda corta y el periodo de muestreo debe ser igual al doble de la frecuencia más baja que se encuentre presente en la señal."
+        
+    },
+    {
+        "materia": "PROCESAMIENTO DIGITAL DE SEÑALES (DSP)",
+        "pregunta": "Los filtros pasa banda (BP)",
+        "respuesta": "a.Dejan pasar las frecuencias que están situadas en una determinada banda de frecuencia.",
+        "incorrecta1": "b.dejan pasar las frecuencias que están por encima de una determinada frecuencia.",
+        "incorrecta2": "c.dejan pasar las frecuencias que están por debajo de una terminada frecuencia.",
+        "incorrecta3": "d.dejan pasar todas las frecuencias excepto las que están situadas en una determinada banda de frecuencia"
+        
+    },
+    {
+        "materia": "SEÑALES Y SISTEMAS",
+        "pregunta": "Seleccione la alternativa correcta:",
+        "respuesta": "b.1,2,3,4",
+        "incorrecta1": "a.1,3,2,4",
+        "incorrecta2": "d.4,3,2,1",
+        "incorrecta3": "c.2,3,1,4",
+        "imagen": "https://i.ibb.co/8PyRBCv/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "PROGRAMACION I ",
+        "pregunta": "Indique el tipo de dato que se evalúa con el switch en Java.",
+        "respuesta": "a.int",
+        "incorrecta1": "b.Objeto",
+        "incorrecta2": "c.float",
+        "incorrecta3": "d.double"
+        
+    },
+    {
+        "materia": "PROGRAMACION I ",
+        "pregunta": "Seleccione la opción que describa qué es una variable",
+        "respuesta": "c.Es un espacio de memoria que puede cambiar de valor durante la ejecución de un programa",
+        "incorrecta1": "a.Es un espacio de memoria que puede cambiar de tipo de dato durante la ejecución de un programa",
+        "incorrecta2": "b.Es un espacio de memoria que puede tener un solo valor durante la ejecución de un programa.",
+        "incorrecta3": "d.Es un espacio de memoria que puede cambiar de nombre durante la ejecución de un programa"
+        
+    },
+    {
+        "materia": "PROGRAMACION I ",
+        "pregunta": "Seleccione la alternativa correcta:¿Qué tipo de objeto crea o lanza JAVA cuando se genera un error en el programa?",
+        "respuesta": "exception",
+        "incorrecta1": "error",
+        "incorrecta2": "try-catch-finally",
+        "incorrecta3": "try-catch"
+        
+    },
+    {
+        "materia": "PROGRAMACION I ",
+        "pregunta": "Seleccione la opción correcta.De los siguientes enunciados,Indique cuál es verdadero con respecto al concepto de Herencia:",
+        "respuesta": "c.La Herencia permite construir una clase a partir de una o varias otras clases.",
+        "incorrecta1": "a.La Herencia permite varios métodos con el mismo nombre pero diferente parámetro",
+        "incorrecta2": "b.La Herencia permite que un solo objeto presente varios comportamientos",
+        "incorrecta3": "d.La Herencia combate la complejidad, se concentra en las similitudes e ignora las diferencias."
+        
+    },
+    {
+        "materia": "PROYECTOS",
+        "pregunta": "En base al desarrollo de un producto tecnológico creado por el autor X, este puede ser aplicado en otros lugares en condiciones similares (espacio,tiempo).Esto se refiere a:",
+        "respuesta": "a. método inductivo",
+        "incorrecta1": "b. método deductivo",
+        "incorrecta2": "c. método analítico",
+        "incorrecta3": "d. método histórico lógico"
+        
+    },
+    {
+        "materia": "PROYECTOS",
+        "pregunta": "Del siguiente texto,elija el enunciado correcto:",
+        "respuesta": "d.El uso de técnicas e instrumentos de investigación contempla la metodología",
+        "incorrecta1": "a.El esquema capitular es la presentación del cronograma de ejecución",
+        "incorrecta2": "b.El marco metodológico está formado por las principales líneas teóricas que sustentan el trabajo de investigación",
+        "incorrecta3": "c.Se denomina invariable al elemento de investigación que puede ser medido y cambiar su valor cuantitativo o cualitativo"
+        
+    },
+    {
+        "materia": "PROYECTOS",
+        "pregunta": "factores que afectan la confiabilidad y la validez de los instrumentos de medición:",
+        "respuesta": "d.La improvización.",
+        "incorrecta1": "a.Instrucciones del instrumento es clara y adecuada.",
+        "incorrecta2": "b.La memorización.",
+        "incorrecta3": "c.Aplicación de isntrumentos acordes a la realidad y el problema."
+        
+    },
+    {
+        "materia": "REDES DE COMPUTADORAS I",
+        "pregunta": "Las direcciones ip de la red 169.254.0.0/16 corresponden a ips reservadas para ...",
+        "respuesta": "c.Direcciones de Enlace Local",
+        "incorrecta1": "a.Dirección de Broadcast",
+        "incorrecta2": "b.Direcciones Test-Net",
+        "incorrecta3": "d.Dirección Loopback"
+        
+    },
+    {
+        "materia": "REDES DE COMPUTADORAS I",
+        "pregunta": "¿Qué máscara de red utilizaría un administrador de red para obtener tan solo 2 direcciones de host utilizables en un enlace dedicado o punto a punto?",
+        "respuesta": "c.255.255.255.248",
+        "incorrecta1": "a.255.255.255.0",
+        "incorrecta2": "b./30",
+        "incorrecta3": "d./32"
+        
+    },
+    {
+        "materia": "REDES DE COMPUTADORAS I",
+        "pregunta": "¿Qué parámetros usa EIGRP para calcular (por defecto)la métrica hacia una red de destino?",
+        "respuesta": "c.Ancho de banda y retardo",
+        "incorrecta1": "a.Ancho de banda,carga y confiabilidad",
+        "incorrecta2": "b.Ancho de banda",
+        "incorrecta3": "d.Ancho de banda y conteo de saltos"
+        
+    },
+    {
+        "materia": "REDES DE COMPUTADORAS II",
+        "pregunta": "con los protocolos de enrutamiento por vector distancia.",
+        "respuesta": "d.RIP,EIGRP,IGRP",
+        "incorrecta1": "a.OSPF,IS-IS,EGP",
+        "incorrecta2": "b.RIP,OSPF,BGP",
+        "incorrecta3": "d.RIP,EIGRP,IGRP"
+        
+    },
+    {
+        "materia": "REDES DE COMPUTADORAS II",
+        "pregunta": "¿Cuál es la capa del modelo de redes jerarquico que controla el flujo de tráfico de la red con el uso de políticas y traza los dominios debroadcast?",
+        "respuesta": "c.Capa de distribución",
+        "incorrecta1": "a.Capa de núcleo y Distribución",
+        "incorrecta2": "b.Capa de acceso",
+        "incorrecta3": "d.Capa de núcleo"
+        
+    },
+    {
+        "materia": "REDES DE COMPUTADORAS III",
+        "pregunta": "¿De qué forma se caracterizan las redes AS-Interfase?",
+        "respuesta": "a.Los datos y la tensión de alimentación son trasnportados por la misma vía",
+        "incorrecta1": "b.Los datos y la tensión de alimentación son enviados por separado.",
+        "incorrecta2": "c.Sistema de conexiones inalámbricas.",
+        "incorrecta3": "d.Nivel donde se sitúan los autómatas de gama alta dedicados al diseño y control de calidad."
+        
+    },
+    {
+        "materia": "REDES DE COMPUTADORAS III",
+        "pregunta": "En base a la figura:¿Que tipo de conexión se muestra a continuación?",
+        "respuesta": "a.Árbol",
+        "incorrecta1": "b.Estrella",
+        "incorrecta2": "c.Anillo",
+        "incorrecta3": "d.Lineal",
+        "imagen": "https://i.ibb.co/GdfxKZq/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "ELECTIVA I",
+        "pregunta": "Seleccione el orden y los componentes adecuados para cada recuadro.",
+        "respuesta": "b. 1)P.Diferencial 2)P.Vacío 3)P.Barómetrica",
+        "incorrecta1": "a. 1)PVacío 2)P.Hidroeléctrica 3)P.Constante",
+        "incorrecta2": "c. 1)P.Térmica 2)P.Vacío 3)P.Hidrostática",
+        "incorrecta3": "d. 1)P.Potencial 2)P.Vacío 3)P.Térmica",
+        "imagen": "https://i.ibb.co/h9cPhTc/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "ELECTIVA I",
+        "pregunta": "Ordenar el Transmisor resistivos:",
+        "respuesta": "b.a)Presión b)Resistencia variable c)Diafragma d)Resorte",
+        "incorrecta1": "a.a)Turbidez b)Inductancia variable c)Diafragma d)Resorte",
+        "incorrecta2": "c.a)Caudal b)Resistencia fija c)Dieléctrico d)Torque",
+        "incorrecta3": "d.a)Temperatura b)Capacitancia variabe c)Dilatación d)Resistividad",
+        "imagen": "https://i.ibb.co/d4qx3vV/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL I",
+        "pregunta": "Seleccione la alternativa correcta:Dada la siguiente función determine los polos de la misma",
+        "respuesta": "d.s=-4+-j3",
+        "incorrecta1": "a.s=4 , s=-3",
+        "incorrecta2": "b.s=-3+-j5",
+        "incorrecta3": "c.s=-8",
+        "imagen": "https://i.ibb.co/pQGT280/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL I",
+        "pregunta": "Se dice que un sistema es invariante en el tiempo si un desplazamiento temporal de la señal de entrada causa un desplazamiento temporal ... en la salida.",
+        "respuesta": "d.identico",
+        "incorrecta1": "a.doble",
+        "incorrecta2": "b.medio",
+        "incorrecta3": "c.inferior"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "Dada la ecuación: Se quiere conocer el valor de f(t) en infinito,para lo cual se aplica el teorema de valor final¿Qué valor se obtiene?",
+        "respuesta": "d.-1",
+        "incorrecta1": "a.1",
+        "incorrecta2": "b.0",
+        "incorrecta3": "c.2",
+        "imagen": "https://i.ibb.co/zV7CGJ4/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "TEORIA ELECTROMAGNETICA I",
+        "pregunta": "En la figura se representa las líneas de campo y curvas equipotenciales de dos cargas puntuales.Es correcto afirmar:",
+        "respuesta": "c.Las cargas son de igual signo pero la primera carga(origen) es de mayor magnitud.",
+        "incorrecta1": "a.Las cargas son de signo opuesto pero la primera carga (origen) es de menor magnitud.",
+        "incorrecta2": "b.Las cargas son de signos opuestos pero de igual magnitud.",
+        "incorrecta3": "d.Las cargas son de igual signo y de igual magnitud.",
+        "imagen": "https://i.ibb.co/0DJ4470/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "TEORIA ELECTROMAGNETICA I",
+        "pregunta": "Si se tiene un capacitor de placas paralelas con un dieléctrico entre las placas,una de las siguientes afirmaciones es correcta:",
+        "respuesta": "d.La capacitancia es inversamente proporcional a la distancia de separación entre las placas",
+        "incorrecta1": "a.La capacitancia es directamente proporcional a la separación entre las placas",
+        "incorrecta2": "b.La capacitancia es directamente proporcional al potencial aplcado a las placas",
+        "incorrecta3": "c.La capacitancia es inversamente propocional al área de las placas."
+        
+    },
+    {
+        "materia": "SISTEMAS MICROPROCESADOS I ",
+        "pregunta": "Un convertidor analógico digital(ADC) de 10 bits emplea una tensión de referencia positiva Vref(+)=4.0 y una tensión de referencia negativa(-)=1V.Si la entrada es de 2.5V,que valor digitalizado tiene:Condiciones pasadas",
+        "respuesta": "512",
+        "incorrecta1": "1024",
+        "incorrecta2": "890",
+        "incorrecta3": "127"
+        
+    },
+    {
+        "materia": "SISTEMAS MICROPROCESADOS II",
+        "pregunta": "Suponga una memoria organizada en páginas de 4kB. Determine el número de páginas y desplazamiento de una localización de memoria cuya dirección es de D124h.",
+        "respuesta": "Pág D despl 214",
+        "incorrecta1": "Pág 2D despl 1F3",
+        "incorrecta2": "Pág 2C despl 4AF",
+        "incorrecta3": "Pág C despl 4AF"
+        
+    },
+    {
+        "materia": "SISTEMAS MICROPROCESADOS II",
+        "pregunta": "Seleccione la dirección que está reservada para el vector de reset si el mapa de la memoria de programa tiene 8196 posiciones y solamente tiene implementado las primeras 2048 posiciones",
+        "respuesta": "b.AF48h",
+        "incorrecta1": "a.0000h",
+        "incorrecta2": "c.03A0h",
+        "incorrecta3": "d.0020h"
+        
+    },
+    {
+        "materia": "SISTEMAS MICROPROCESADOS II",
+        "pregunta": "Relacione las columnas",
+        "respuesta": "d.a-2, b-4, c-3, d-1",
+        "incorrecta1": "a.a-1, b-4, c-3, d-2",
+        "incorrecta2": "b.a-4, b-3, c-1, d-2",
+        "incorrecta3": "c.a-1, b-2, c-3, d-4",
+        "imagen": "https://i.ibb.co/7QvVXzQ/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "METODOS NUMERICOS",
+        "pregunta": "La aproximación lineal de la ecuación mostrada es:",
+        "respuesta": "c.delta-y=(1/raiz(2))delta-x",
+        "incorrecta1": "a.delta-y=(raiz(2))delta-x",
+        "incorrecta2": "b.delta-y=-(1/raiz(2))delta-x",
+        "incorrecta3": "d.delta-y=-(raiz(2))delta-x",
+        "imagen": "https://i.ibb.co/nfH8vpW/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "Indique la opción que contenga el objetivo del término integral,en un controlador PID",
+        "respuesta": "b.Disminuir y eliminar el error de estado estable.",
+        "incorrecta1": "a.Generar oscilaciones controladas en la salida.",
+        "incorrecta2": "c.Mantener el error al mínimo corrigiéndolo proporcionalmente con la misma velocidad que se produce.",
+        "incorrecta3": "d.Predecir el valor futuro de la salida y corregir el error."
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "Al aplicar una entrada escalón unitario a la función de transferencia adjunta.Seleccione la opción con su valor final.",
+        "respuesta": "b.2",
+        "incorrecta1": "a.0",
+        "incorrecta2": "c.Infinito",
+        "incorrecta3": "d.1",
+        "imagen": "https://i.ibb.co/z6DMgkL/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "La matriz de observabilidad depende de:",
+        "respuesta": "d.Las matrices A y C",
+        "incorrecta1": "a.Las matrices A y D",
+        "incorrecta2": "b.Las matrices A,B y C",
+        "incorrecta3": "c.Las matrices A y B"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "El efecto de añadir un cero a la función de transferencia de la trayectoria directa es:",
+        "respuesta": "b.Incrementar el ancho de banda del sistema en lazo abierto",
+        "incorrecta1": "a.Incrementar el ancho de banda del sistema en lazo cerrado",
+        "incorrecta2": "c.Hacer que el sistema sea más estable y el ancho de banda disminuya",
+        "incorrecta3": "d.Hacer que el sistema sea menos estable y el ancho de banda aumente"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "La matriz de observabilidad depende de:",
+        "respuesta": "b.Las matrices A y C",
+        "incorrecta1": "a.Las matrices A y D",
+        "incorrecta2": "c.Las matrices A,B y C",
+        "incorrecta3": "d.Las matrices A y B"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL III",
+        "pregunta": "En la salida del controlador digital se utiliza un bloque que sirve para rellenar los espacios entre los periodos de muestreo y así reconstruir en forma aproximada la señal analógica de entrada original.Este bloque se lo conoce como:",
+        "respuesta": "c.retenedor",
+        "incorrecta1": "a.muestreador",
+        "incorrecta2": "b.multiplexor",
+        "incorrecta3": "d.convertidor analógico-digital(ADC)"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "El diseño de un compensador digital(o un controlador digital)para satisfacer las especificaciones dadas (en función del margen de fase o del margen de ganancia)puede llevarse a cabo utilizando ... para esto se debe transformar la función de trasnferencia pulso en el plano z en la correspondiente en el ...",
+        "respuesta": "b.Bode, plano w",
+        "incorrecta1": "a.la carta de Nichols, plano s",
+        "incorrecta2": "c.Nyquist, plano s",
+        "incorrecta3": "d.lugar geométrico de las raices, plano w"
+        
+    },
+    {
+        "materia": "TEORIA DE CONTROL II",
+        "pregunta": "A qué forma canónica para ecuaciones en el espacio de estados en tiempo discrto representa la siguiente imagen:",
+        "respuesta": "b.Forma canónica observable",
+        "incorrecta1": "a.Forma canónica de Jordan",
+        "incorrecta2": "c.Forma canónica diagonal",
+        "incorrecta3": "d.Forma canónica controlable",
+        "imagen": "https://i.ibb.co/tZLBGt5/image.png",
+        "objectFit": "cover"
+        
+    },
+    {
+        "materia": "TEORIA DEL DISEÑO (SI)",
+        "pregunta": "¿Cómo se llama el área donde se fabrican los circuitos integrados y ordenadores?",
+        "respuesta": "c.Sala blanca",
+        "incorrecta1": "a.Sala amarilla",
+        "incorrecta2": "b.Cuarto de fabricación",
+        "incorrecta3": "d.Cuarto de Moore"
+        
+    },
+    {
+        "materia": "TEORIA DEL DISEÑO (SI)",
+        "pregunta": "El modo de montaje de los circuitos integrados puede ser: por ...(TH)o ...(SM)",
+        "respuesta": "b. ...taladro ...superficial",
+        "incorrecta1": "a. ...tiras ...superficial",
+        "incorrecta2": "c. ...estaño ...metalizada",
+        "incorrecta3": "d. ...superficial ...manual"
+        
+    },
+    {
+        "materia": "TEORIA DEL DISEÑO (SI)",
+        "pregunta": "Circuitos impresos multicapa son necesarios cuando:",
+        "respuesta": "b.Desea realizar un circuito de excelente prestaciones en términos de EMC",
+        "incorrecta1": "a.No se desea usar los zócalos de los circuitos integrados",
+        "incorrecta2": "c.Desea evitar pistas en puntas",
+        "incorrecta3": "d.Desea tener mejor disipación de calor"
+        
+    },
+    {
+        "materia": "TEORIA ELECTROMAGNETICA I",
+        "pregunta": "La magnitud de la intensidad de campo eléctrico producida por una carga puntual positiva de 3nC en el vacío a una distancia de 10cm, es aproximadamente igual a:",
+        "respuesta": "a.2,7 KV/m",
+        "incorrecta1": "b.30 KV/m",
+        "incorrecta2": "c.20,87 KV/m",
+        "incorrecta3": "d.10,5 KV/m"
+        
+    },
+    {
+        "materia": "TEORIA ELECTROMAGNETICA I",
+        "pregunta": "¿Cuáles son las principales constantes que están presentes en una línea de transmisión?",
+        "respuesta": "a.Inductancia,capacitancia,conductancia de desviación,ressitencia",
+        "incorrecta1": "b.Inductancia,capacitancia,conductancia de desviación,admitancia",
+        "incorrecta2": "c.Conductancia de desviación,resistencia,impedancia",
+        "incorrecta3": "d.Capacitancia,conductancia de desviación,resistencia,impedancia"
+        
+    },
+    {
+        "materia": "TEORIA ELECTROMAGNETICA I",
+        "pregunta": "Dado el campo de potencial V=2x^2 y -5z,la intensidad de campo eléctrico E es:",
+        "respuesta": "d.-4xax - x2ay + 5az",
+        "incorrecta1": "a.4xyax + 2x2ay + 5az",
+        "incorrecta2": "b.-4xyax - 2x2ay + 5az",
+        "incorrecta3": "c.-4ax - 2ay + 5az"
+        
+    },
+    {
+        "materia": "TEORIA ELECTROMAGNETICA I",
+        "pregunta": "Una onda electromagnética esta compuesta por campos:",
+        "respuesta": "a.Eléctricos y magnéticos perpendiculares entre si y perpendiculares a la dirección de propagación",
+        "incorrecta1": "b.Magnéticos y perpendiculares a la dirección de propagación",
+        "incorrecta2": "c.Eléctricos y perpendiculares a la dirección de propagación",
+        "incorrecta3": "d.Eléctricos y magnéticos paralelos entre si y perpendiculares a la direción de propagación"
+        
     }
 
 ]
